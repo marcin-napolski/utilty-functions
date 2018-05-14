@@ -1,5 +1,7 @@
 var Startup = /** @class */ (function () {
-    function localStartup() {
+
+    function localStartup(arg) {
+
     }
     Startup.main = function () {
         console.log('Hello World2');
