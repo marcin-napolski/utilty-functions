@@ -12,7 +12,7 @@ getRandomNumbert(1,10);
 ```
 
 ```
-getURLug('My Favorite Songs');
+getURSLug('My Favorite Songs');
 //=> 'my-favorite-songs'
 ```
 
