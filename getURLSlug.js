@@ -3,3 +3,4 @@ function getURLSlug(words){
 	.replace(/\s+/g, '-')
 	.toLowerCase();
 }
+//use me

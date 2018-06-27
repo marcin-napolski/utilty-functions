@@ -3,3 +3,4 @@ const randomNumber = (min, max) => (
 );
 
 export default randomNumber;
+//use me
